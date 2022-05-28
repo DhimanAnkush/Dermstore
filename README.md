@@ -23,4 +23,5 @@ Local Storage
 External Links
 Netlify Deployed Link
 
-Medium Blog Link
+Deployed link
+https://dermstore-clone-app.netlify.app
