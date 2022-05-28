@@ -21,7 +21,11 @@ Cascading Style Sheets
 Vanilla JavaScript ES6
 Local Storage
 External Links
-Netlify Deployed Link
 
-Deployed link
+TECHSTACK:
+1)HTML
+2)CSS
+3)JAVASCRIPT
+
+Netlify Deployed Link
 https://dermstore-clone-app.netlify.app
